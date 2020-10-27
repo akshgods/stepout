@@ -1,0 +1,19 @@
+{
+  "name": "@stepout/common",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rimraf dist && tsc"
+  },
+  "keywords": [],
+  "author": "Aniket Kumar <aniketkumar049@gmail.com> (https://www.ianiket.live)",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-native": "^0.63.3"
+  },
+  "devDependencies": {
+    "rimraf": "^3.0.2"
+  }
+}
